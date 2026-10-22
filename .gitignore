@@ -3,3 +3,6 @@ data/
 config.json
 .env
 *.log
+.railway/
+bot-local.pid
+deploy-retry.log
