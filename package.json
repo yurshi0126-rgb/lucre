@@ -1,0 +1,13 @@
+{
+  "name": "lucre",
+  "version": "1.0.0",
+  "description": "Lucre - a Yapper bot",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
